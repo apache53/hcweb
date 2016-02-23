@@ -1,0 +1,455 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-10-28 01:44:35 --> Language file contains no data: language/zh_CN/common_lang.php
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-10-28 01:44:35 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 01:45:03 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 01:47:00 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 01:47:03 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 01:52:29 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 01:55:50 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 01:56:18 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 01:56:18 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 01:56:20 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:01:55 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:07:18 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:07:20 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:08:59 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:08:59 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:09:00 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:09:00 --> Query error: Unknown column 'titile' in 'field list'
+ERROR - 2015-10-28 02:09:00 --> Severity: Warning  --> include_once(./views/404.php): failed to open stream: No such file or directory D:\xampp\htdocs\rumeinews\api\errors\error_db.php 1
+ERROR - 2015-10-28 02:09:00 --> Severity: Warning  --> include_once(): Failed opening './views/404.php' for inclusion (include_path='.;\xampp\php\PEAR') D:\xampp\htdocs\rumeinews\api\errors\error_db.php 1
+ERROR - 2015-10-28 02:09:03 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:09:03 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:09:53 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:09:53 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:09:56 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:11:33 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:11:33 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:11:44 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:11:44 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:11:50 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:11:51 --> Severity: Notice  --> Undefined index: content D:\xampp\htdocs\rumeinews\api\controllers\news.php 58
+ERROR - 2015-10-28 02:11:51 --> Severity: Notice  --> Undefined index: content D:\xampp\htdocs\rumeinews\api\controllers\news.php 58
+ERROR - 2015-10-28 02:11:55 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:12:01 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:12:20 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:12:20 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:12:21 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:12:27 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:12:56 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:12:56 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:13:01 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:13:14 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:13:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:13:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:13:50 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:14:30 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:14:30 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:14:33 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:15:17 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:15:17 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:15:21 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:15:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:15:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:15:50 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:16:19 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:17:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:17:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:17:46 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:27:31 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:27:34 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:27:54 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:28:00 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:28:15 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:28:17 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:28:20 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:28:31 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:28:44 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:30:16 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:30:16 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:30:21 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:30:24 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:31:10 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:31:10 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:31:14 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:31:16 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:33:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:34:37 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:36:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:37:32 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:39:21 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:39:24 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:58:25 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:58:56 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 02:58:59 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 03:07:03 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 03:21:04 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 03:21:07 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:39:55 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:40:28 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:40:28 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:40:33 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:40:37 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:44:00 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:44:03 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:44:04 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:44:07 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:44:09 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:46:39 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:46:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:50:30 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:50:33 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:50:36 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:50:38 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:50:40 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:50:44 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:50:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:50:50 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:50:52 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:50:56 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:51:28 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:51:30 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:51:45 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:52:55 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:52:58 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:53:01 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:53:03 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:53:07 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:53:11 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:53:14 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:53:23 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:53:23 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:53:28 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 04:53:32 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:39:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:39:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:39:52 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:39:55 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:40:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:41:35 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:41:35 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:54:14 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:54:17 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:54:58 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:55:01 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:55:03 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:55:06 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:55:08 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:55:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:55:38 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:55:46 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:55:49 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:55:51 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:55:55 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:56:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:59:06 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:59:07 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 06:59:16 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:00:29 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:00:32 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:00:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:01:08 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:02:10 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:02:10 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:02:19 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:07:16 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:07:16 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:07:20 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:07:52 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:07:52 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:08:03 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:08:22 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:08:35 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:08:44 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:09:43 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:09:49 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:09:55 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:10:00 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:10:03 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:10:09 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:10:12 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:10:16 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:10:23 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:10:31 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:11:22 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:11:24 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:11:35 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:13:24 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:15:09 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:15:09 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:15:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:15:19 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:15:23 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:18:34 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:18:34 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:18:35 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:18:38 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:21:07 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:24:25 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:24:27 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:24:28 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:30:16 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:30:16 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:30:18 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:30:21 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:30:27 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:30:31 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:31:53 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:31:56 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:32:05 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:32:08 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:32:14 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:32:31 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:32:31 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:32:40 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:33:04 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:33:04 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:33:09 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:33:25 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:34:20 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:34:21 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:34:23 --> 404 Page Not Found --> 
+ERROR - 2015-10-28 07:34:23 --> Severity: Warning  --> include_once(./views/404.php): failed to open stream: No such file or directory D:\xampp\htdocs\rumeinews\api\errors\error_404.php 1
+ERROR - 2015-10-28 07:34:23 --> Severity: Warning  --> include_once(): Failed opening './views/404.php' for inclusion (include_path='.;\xampp\php\PEAR') D:\xampp\htdocs\rumeinews\api\errors\error_404.php 1
+ERROR - 2015-10-28 07:34:32 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:34:33 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 55
+ERROR - 2015-10-28 07:34:33 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 55
+ERROR - 2015-10-28 07:34:33 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:34:34 --> 404 Page Not Found --> 
+ERROR - 2015-10-28 07:34:34 --> Severity: Warning  --> include_once(./views/404.php): failed to open stream: No such file or directory D:\xampp\htdocs\rumeinews\api\errors\error_404.php 1
+ERROR - 2015-10-28 07:34:34 --> Severity: Warning  --> include_once(): Failed opening './views/404.php' for inclusion (include_path='.;\xampp\php\PEAR') D:\xampp\htdocs\rumeinews\api\errors\error_404.php 1
+ERROR - 2015-10-28 07:35:22 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:35:23 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 55
+ERROR - 2015-10-28 07:35:23 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 55
+ERROR - 2015-10-28 07:35:23 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:35:24 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 92
+ERROR - 2015-10-28 07:35:24 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 92
+ERROR - 2015-10-28 07:36:10 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:36:11 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 58
+ERROR - 2015-10-28 07:36:11 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 58
+ERROR - 2015-10-28 07:36:11 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:36:12 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 95
+ERROR - 2015-10-28 07:36:12 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 95
+ERROR - 2015-10-28 07:36:24 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:36:25 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 58
+ERROR - 2015-10-28 07:36:25 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 58
+ERROR - 2015-10-28 07:36:25 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:36:26 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 95
+ERROR - 2015-10-28 07:36:26 --> Severity: Notice  --> Undefined index: photo D:\xampp\htdocs\rumeinews\api\controllers\news.php 95
+ERROR - 2015-10-28 07:36:48 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:36:50 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:37:17 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:37:20 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:37:22 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:37:26 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:37:31 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:37:38 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:37:41 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:38:02 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:38:03 --> Severity: Warning  --> array_push() expects parameter 1 to be array, null given D:\xampp\htdocs\rumeinews\api\controllers\news.php 59
+ERROR - 2015-10-28 07:38:03 --> Severity: Warning  --> array_push() expects parameter 1 to be array, null given D:\xampp\htdocs\rumeinews\api\controllers\news.php 59
+ERROR - 2015-10-28 07:38:03 --> Severity: Warning  --> array_push() expects parameter 1 to be array, null given D:\xampp\htdocs\rumeinews\api\controllers\news.php 59
+ERROR - 2015-10-28 07:38:03 --> Severity: Warning  --> array_push() expects parameter 1 to be array, null given D:\xampp\htdocs\rumeinews\api\controllers\news.php 59
+ERROR - 2015-10-28 07:38:03 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:38:04 --> Severity: Warning  --> array_push() expects parameter 1 to be array, null given D:\xampp\htdocs\rumeinews\api\controllers\news.php 100
+ERROR - 2015-10-28 07:38:04 --> Severity: Warning  --> array_push() expects parameter 1 to be array, null given D:\xampp\htdocs\rumeinews\api\controllers\news.php 100
+ERROR - 2015-10-28 07:38:53 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:38:54 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:38:55 --> Severity: Warning  --> array_push() expects parameter 1 to be array, null given D:\xampp\htdocs\rumeinews\api\controllers\news.php 100
+ERROR - 2015-10-28 07:38:55 --> Severity: Warning  --> array_push() expects parameter 1 to be array, null given D:\xampp\htdocs\rumeinews\api\controllers\news.php 100
+ERROR - 2015-10-28 07:39:56 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:39:57 --> Severity: Notice  --> Undefined variable: banner D:\xampp\htdocs\rumeinews\api\controllers\news.php 62
+ERROR - 2015-10-28 07:39:57 --> Severity: Notice  --> Undefined variable: banner D:\xampp\htdocs\rumeinews\api\controllers\news.php 62
+ERROR - 2015-10-28 07:39:57 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:39:58 --> Severity: Warning  --> array_push() expects parameter 1 to be array, null given D:\xampp\htdocs\rumeinews\api\controllers\news.php 102
+ERROR - 2015-10-28 07:39:58 --> Severity: Warning  --> array_push() expects parameter 1 to be array, null given D:\xampp\htdocs\rumeinews\api\controllers\news.php 102
+ERROR - 2015-10-28 07:40:08 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:40:09 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:40:10 --> Severity: Warning  --> array_push() expects parameter 1 to be array, null given D:\xampp\htdocs\rumeinews\api\controllers\news.php 102
+ERROR - 2015-10-28 07:40:10 --> Severity: Warning  --> array_push() expects parameter 1 to be array, null given D:\xampp\htdocs\rumeinews\api\controllers\news.php 102
+ERROR - 2015-10-28 07:40:17 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:40:46 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:40:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:41:08 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:41:09 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:42:28 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:42:29 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:46:34 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:46:35 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:56:29 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 07:56:30 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:20:48 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:20:49 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:20:49 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:21:09 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:21:09 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:21:09 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:21:20 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:21:28 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:21:29 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:21:29 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:22:03 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:22:08 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:22:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:22:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:22:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:23:31 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:23:31 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:23:31 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:46:28 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:46:28 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:46:28 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:47:12 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:47:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:47:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:51:58 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:51:59 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:51:59 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:54:25 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:54:26 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:54:26 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:57:54 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:57:54 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:57:54 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:57:54 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:59:23 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:59:23 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:59:23 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 08:59:23 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:00:33 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:00:34 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:00:34 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:00:36 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:00:38 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:00:46 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:00:50 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:00:54 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:01:10 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:01:18 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:01:19 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:05:31 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:06:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:10:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:10:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:10:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:10:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:10:53 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:10:58 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:11:22 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:11:22 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:11:22 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:11:22 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:11:33 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:11:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:11:55 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:13:53 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:13:53 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:13:53 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:13:53 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:13:57 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:14:09 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:14:45 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:16:54 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:16:55 --> 404 Page Not Found --> 
+ERROR - 2015-10-28 09:16:55 --> Severity: Warning  --> include_once(./views/404.php): failed to open stream: No such file or directory D:\xampp\htdocs\rumeinews\api\errors\error_404.php 1
+ERROR - 2015-10-28 09:16:55 --> Severity: Warning  --> include_once(): Failed opening './views/404.php' for inclusion (include_path='.;\xampp\php\PEAR') D:\xampp\htdocs\rumeinews\api\errors\error_404.php 1
+ERROR - 2015-10-28 09:22:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:22:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:22:48 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:22:48 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:22:51 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:26:15 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:34:04 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:34:11 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:34:17 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:34:32 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:34:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:42:41 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:42:41 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:42:41 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:42:41 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:42:45 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:52:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:52:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:52:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:52:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:52:17 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:52:50 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:52:50 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:52:50 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:52:50 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:52:53 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:58:34 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:58:34 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:58:35 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:58:35 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:58:38 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:58:45 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 09:59:13 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:02:30 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:02:30 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:02:30 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:02:30 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:02:33 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:02:36 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:02:40 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:02:44 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:02:47 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:04:21 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:04:21 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:04:21 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:04:21 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:04:24 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:14:46 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:14:46 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:14:46 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:14:46 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:14:49 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:15:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:15:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:15:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:15:42 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:15:45 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:16:24 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:16:24 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:16:25 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:16:25 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:16:28 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:20:08 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:23:00 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:23:00 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:23:00 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:23:00 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:23:01 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:23:06 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:23:06 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:23:06 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:23:06 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:23:08 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:24:23 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:30:30 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:56:19 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:56:19 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:56:19 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:56:19 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:56:22 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:56:53 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:56:53 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:56:54 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:56:54 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:56:57 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:57:29 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:57:29 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:57:30 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:57:30 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:58:04 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:58:04 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:58:05 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:58:05 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:58:24 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:58:24 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:58:24 --> Language file contains no data: language/zh_CN/common_lang.php
+ERROR - 2015-10-28 10:58:24 --> Language file contains no data: language/zh_CN/common_lang.php

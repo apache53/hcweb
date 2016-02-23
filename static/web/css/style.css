@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+.wrap{
+	width: 96%;
+	margin: 2%;
+}
+.wrap .box{
+	padding: 20px 0;
+	border-bottom: 1px solid #ccc;
+}
+.wrap .box h2{
+	font-size: 18px;
+	line-height: 2;
+	color: #0067b2;
+}
+.wrap .box a, .wrap .box p{
+	font: 14px/2 Arial;
+	color: #999;
+	transition: color 0.5s;
+}
+.wrap .box p{
+	cursor: pointer;
+}
+.wrap .box a:hover, .wrap .box p.hover{
+	color: #0067b2;
+}
+
+.tab span{
+	display: inline-block;
+	width: 80px;
+	height: 30px;
+	border-radius: 3px;
+	background: #999;
+	margin-right: 15px;
+	font-size: 13px;
+	line-height: 30px;
+	color: #fff;
+	text-align: center;
+	cursor: pointer;
+}
+.tab span.cur{
+	background: #0067b2;
+}
+.box-wrap{
+	padding: 10px 0;
+	min-height: 30px;
+}
+
+.fullbg{
+	width: 500px;
+	height: 500px;
+	margin-right: 10px;
+}
+.fullbg.w60{
+	width: 600px;
+	height: 400px;
+}
+.fullbg.w25{
+	width: 250px;
+	height: 400px;
+}
